@@ -326,6 +326,14 @@ footer p {
     display: none;
   }
 
+.start-learn {
+  display: none;
+}
+
+.course-grid-container {
+  display: none;
+}
+
   .banner-desktop {
     display: none;
   }
